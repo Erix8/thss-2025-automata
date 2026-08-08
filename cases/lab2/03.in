@@ -1,0 +1,13 @@
+type: find
+pattern: Degraded|Outage
+input: githubstatus.com,
+Git Operations - Normal,
+API Requests - Normal,
+Webhooks - Normal,
+Issues - Normal,
+Pull Requests - Normal,
+Actions - Normal,
+Packages - Normal,
+Pages - Normal,
+Codespaces - Normal,
+Copilot - Normal

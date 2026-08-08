@@ -1,0 +1,6 @@
+type: find
+flags: s
+pattern: a-\x62x?([)cd-z[]e+)f.+
+input: a-byeeefg
+hijk
+lm

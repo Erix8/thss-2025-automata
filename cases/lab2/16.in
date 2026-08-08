@@ -1,0 +1,3 @@
+type: find
+pattern: [^:]+: ?([^A-Z\d\-, ]+.*?)+
+input: labels: formal_language1-compiler,ANtest_program-toanother.exe23end

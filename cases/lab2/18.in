@@ -1,0 +1,3 @@
+type: find
+pattern: (25[0-5]|2[0-4]\d|[01]?\d?\d)\.(25[0-5]|2[0-4]\d|[01]?\d?\d)\.(25[0-5]|2[0-4]\d|[01]?\d?\d)\.(25[0-5]|2[0-4]\d|[01]?\d?\d)
+input: The IP address of the Tsinghua University DNS server is 166.111.8.28 and 166.111.8.29, you can use them to query domain names.

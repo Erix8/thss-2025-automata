@@ -1,0 +1,3 @@
+type: match
+pattern: https?:\/\/((?:[\w\-]+\.)+\w+)((?:\/[\w\-+.%]+)*\/?)(\?(?:[\w\-+.%]+=[\w\-+.%]*&)*[\w\-+.%]+=[\w\-+.%]*)?(#[\w\-+.%]+)?
+input: <a href="https://github.com/vuejs/core/issues?page=3&q=is%3Aissue+is%3Aopen#js-global-screen-reader-notice">Vue.js Issues</a>

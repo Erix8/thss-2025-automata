@@ -1,0 +1,12 @@
+type: nfa
+hidden: true
+states: 5
+final: 4
+rules:
+0->1 \e
+1->2 a
+2->2 a
+2->3 \e
+3->1 \e
+3->4 b
+input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaac

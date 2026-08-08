@@ -1,0 +1,3 @@
+type: matchAll
+pattern: \bapple\b
+input: You have a pine, I have an apple. So we have pineapple!

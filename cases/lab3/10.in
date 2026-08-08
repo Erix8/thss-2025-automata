@@ -1,0 +1,4 @@
+type: match
+pattern: ^a-bx?([)cd-z[]e+)f\n(\w*)\tacde$
+input: a-byeeef
+fedx	acde

@@ -1,0 +1,3 @@
+type: match
+pattern: (?:School|Department) of (.+), Tsinghua University
+input: School of Software, Tsinghua University

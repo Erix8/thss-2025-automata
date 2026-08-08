@@ -1,0 +1,5 @@
+type: nfa
+states: 1
+final: 0
+rules:
+input: 

@@ -1,0 +1,3 @@
+type: find
+pattern: \d\s\w\D\W\S
+input: the Celtics beat the Philadelphia 76ers 112-88 on Sunday to advance to the Eastern Conference finals

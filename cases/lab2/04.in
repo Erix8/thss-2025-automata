@@ -1,0 +1,3 @@
+type: find
+pattern: \d+
+input: There is 16 states in this NFA.

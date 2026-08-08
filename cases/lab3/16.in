@@ -1,0 +1,4 @@
+type: replaceAll
+pattern: (, )?([\w ]+)
+replacement: $1Dr. $2
+input: San Zhang, Si Li, Wu Wang, Liu Zhao, Alice, Bob, Charlie, David

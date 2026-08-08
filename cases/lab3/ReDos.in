@@ -1,0 +1,4 @@
+type: find
+flags: u
+pattern: (a+)+b
+input: aaaaaaaaaaaaaaaaaaaaaac

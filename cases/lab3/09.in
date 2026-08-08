@@ -1,0 +1,13 @@
+type: matchAll
+flags: m
+pattern: ^(.+) - (?:Degraded|Outage)$
+input: Git Operations - Normal
+API Requests - Outage
+Webhooks - Normal 
+Issues - Normal 
+Pull Requests - Normal 
+Actions - Normal 
+Packages - Degraded
+Pages - Normal 
+Codespaces - Normal 
+Copilot - Normal

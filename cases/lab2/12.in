@@ -1,0 +1,3 @@
+type: find
+pattern: [\w.%+\-]+@[\w.\-]+\.[a-zA-Z]+
+input: Please send to tuna-general+subscribe@googlegroups.com to subscribe the TUNA mailing list.

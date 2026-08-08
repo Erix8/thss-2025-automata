@@ -1,0 +1,3 @@
+type: match
+pattern: fox|cat|dog
+input: The quick brown fox jumps over the lazy dog

@@ -1,0 +1,3 @@
+type: find
+pattern: jQuery\d+_\d+\(\[.*?(\{.*\}).*?\]\)
+input: jQuery110101930611153683197_1684118629327([{"dwmc":"shuxuekexuexi","kcflmc":"yanjiusheng","kch":"60420153","kcm":"yingyongjinshidaishu","kkdwnm":"042","ksdd":"","ksrq":"","ksrs":0,"kxh":"0","xm":""}])

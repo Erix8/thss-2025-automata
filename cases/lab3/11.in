@@ -1,0 +1,11 @@
+type: match
+pattern: <img\s+id="captcha"\s+src="(.*?)"(?:.|\n)*?>
+input: <div style="display: flex; margin-top: 20px;">
+    <p>Please finish the Captcha</p>
+    <img
+        id="captcha"
+        src="/login-jcaptcah.jpg?captchaflag=login1"
+        width="90"
+        height="30"
+    />
+</div>
